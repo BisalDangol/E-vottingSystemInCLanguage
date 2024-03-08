@@ -1,0 +1,42 @@
++-------------------------------+
+| S.N.: 1  			|
+| Citizenship Number: 5486415846		|
+| Date of Birth: 05/12/1985 		|
+| Name: BishalNull Dangol|
+| Username: bis@d1		|
+| Password: bishal		|
+| Address: Lalitpur-10		|
+| Email: something@gmail.com    |
+| Phone Number: +977 98623655453		|
+| Gender: Male		|
+| Religion: Hindu	|
+| Nationality: Nepalese 	|
++-------------------------------+
++-------------------------------+
+| S.N.: 2  			|
+| Citizenship Number: 5486416594		|
+| Date of Birth: 05/12/1989 		|
+| Name: ArjunNull Shahi|
+| Username: arj@d1		|
+| Password: arjun		|
+| Address: Okhaldhunga-3		|
+| Email: something@gmail.com    |
+| Phone Number: +977 98623655459		|
+| Gender: Male		|
+| Religion: Hindu	|
+| Nationality: Nepalese 	|
++-------------------------------+
++-------------------------------+
+| S.N.: 3				|
+| Citizenship Number: 25252525		|
+| Date of Birth: 20/08/1955		|
+| Name: KabinaNull Giri|
+| Username: kabi@d1		|
+| Password: kabina		|
+| Address: Dolakha		|
+| Email: some@gmil.com		|
+| Phone Number: +977 9741109414		|
+| Gender: nemale		|
+| Religion: hindu		|
+| Nationality: Nepalese		|
++-------------------------------+

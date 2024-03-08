@@ -1,0 +1,77 @@
++-------------------------------+
+| S.N.: 1      |
+| Citizenship Number: 252626    |
+| Date of Birth: 25/25/1000 |
+| Username: sam1		|
+| Address: hfgdj              |
+|Password: 123  	|
++-------------------------------+
++-------------------------------+
+| S.N.: 2		|
+| Citizenship Number: 2536      |
+| Date of Birth: 25/25/2000    	|
+| Username: arjun		|
+| Address: kghfydt		|
+| Password: arjuna 		|
++-------------------------------+
++-------------------------------+
+| S.N.: 3		|
+| Citizenship Number: 265565		|
+| Date of Birth: 25/25/1900		|
+| Username: Rohan		|
+| Address: sgh		|
+| Password: ghfd		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 4		|
+| Citizenship Number: 23564		|
+| Date of Birth: 25/03/2000Bhaktapur		|
+| Username: hari		|
+| Address: Bhaktapur		|
+| Password: 1234		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 5		|
+| Citizenship Number: jhkgf		|
+| Date of Birth: jhgj		|
+| Username: gfd		|
+| Address: hgf		|
+| Password: jhgf		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 6		|
+| Citizenship Number: ,jk		|
+| Date of Birth: jhk		|
+| Username: gh		|
+| Address: hv		|
+| Password: bhvk		|
++-------------------------------+
++-------------------------------+
+| S.N.: 7		|
+| Citizenship Number: 	252525	|
+| Date of Birth: 25/05/2000		|
+| Username: sam1		|
+| Address: kathmandu		|
+| Username: 123		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 8		|
+| Citizenship Number: 2525258		|
+| Date of Birth: 25/05/2000Kathmandu		|
+| Username: sam1		|
+| Address: Kathmandu		|
+| Password: 12345		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 9		|
+| Citizenship Number: 251535		|
+| Date of Birth: 20/05/2000bhaktapur		|
+| Username: sam1		|
+| Address: bhaktapur		|
+| Password: bis123		|
++-------------------------------+

@@ -1,0 +1,18 @@
++---------------------------------------+
+Candidate          | Name of voter
++---------------------------------------+
+| Candiate- 1	     | hari  chai@2  nik
+|Total Vote in 1: 3
++---------------------------------------+
+| Candiate-	2       |Shyam	 CPNds	 Gorkhdsf	
+|Total Vote in 2: 3
++---------------------------------------+
+| Candiate- 3       |Gopal	 Lds	 Bankdf	  sam1
+|Total Vote in 3 : 4
++---------------------------------------+
+| Candiate-	4       | harry
+|Total Vote in 4: 1
++---------------------------------------+
+| Candiate-	5       | 
+|Total Vote in 5: 
++---------------------------------------+

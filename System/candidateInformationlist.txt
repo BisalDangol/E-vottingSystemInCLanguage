@@ -1,0 +1,69 @@
++-------------------------------+
+| S.N.: 1				|
+| Citizenship Number: 269658656		|
+| Date of Birth: 25/09/1983		|
+| Name: Ram Rithal|
+| Party Name: NC	|
+| Candidate From: Kathmandu	|
+| Email: ram@gmail.com		|
+| Phone Number: +977		|
+| Gender: 983564892		|
+| Religion: hindu		|
+| Nationality: nepalese		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 2				|
+| Citizenship Number: 226224123	|
+| Date of Birth: 20/02/1936Gorkha |
+| Name: Shyam Sunar|
+| Party Name: CPNUML	|
+| Candidate From: Gorkha	|
+| Email: shyam@gmail.com		|
+| Phone Number: +977-9825526655		|
+| Gender: Male		|
+| Religion: Hindu		|
+| Nationality: Nepali		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 3				|
+| Citizenship Number: 49154354	|
+| Date of Birth: 85/08/2000Chitwan |
+| Name: Hari Shrestha|
+| Party Name: CPNUML(S)	|
+| Candidate From: Chitwan	|
+| Email: hari@gmail.com		|
+| Phone Number: +977-985415125		|
+| Gender: Male		|
+| Religion: Hindu		|
+| Nationality: Nepalese		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 4				|
+| Citizenship Number: 25465135		|
+| Date of Birth: 25/25/1995Banke 		|
+| Name: Gopal Pandit|
+| Party Name: LP	|
+| Candidate From: Banke	|
+| Email: 	gopal@gmail.com	|
+| Phone Number: +977-9851364025		|
+| Gender: Male		|
+| Religion: Hindu		|
+| Nationality: Nepalese		|
++-------------------------------+
+
++-------------------------------+
+| S.N.: 5				|
+| Citizenship Number: 255462		|
+| Date of Birth: 20/02/1965Bhakatapur 		|
+| Name: Rama Prasad|
+| Party Name: RSP	|
+| Candidate From: Bhakatapur	|
+| Email: bhakta@gmail.com		|
+| Phone Number: +977-451451		|
+| Gender: male		|
+| Religion: Hindu		|
+| Nationality: Nepalese		|
++-------------------------------+
